@@ -1,13 +1,13 @@
 ---
-title: CSS
+title: ECHART
 date: 2020-02-21 00:00:00
 tags: 
-  - CSS
+  - ECHART
 category: 
   - UI
-permalink: /pages/85bdf5/
+permalink: /pages/9348e7/
 categories: 
   - ui
-  - css
+  - echart
 ---
-# CSS
+# ECHART

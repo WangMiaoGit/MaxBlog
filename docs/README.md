@@ -2,7 +2,7 @@
 home: true
 heroImage: /umbrella.png
 heroText: VuePress博客
-tagline: 个人博客记录
+# tagline: 个人博客记录
 actionText: 快速上手 →
 actionLink: /more/
 features:

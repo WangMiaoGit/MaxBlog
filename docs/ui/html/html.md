@@ -1,9 +1,13 @@
 ---
 title: HTML
-date: 2020-02-21 12:20:10
-# permalink: /pages/8309a5b876fc95e3
-
+date: 2020-02-22 00:00:00
 tags: 
-  - null
+  - HTML
+category: 
+  - UI
+permalink: /pages/54e31f/
+categories: 
+  - ui
+  - html
 ---
 # HTML

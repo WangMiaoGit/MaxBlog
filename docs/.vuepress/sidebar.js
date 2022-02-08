@@ -3,4 +3,5 @@ module.exports = {
     '/more/': require("../more/sidebar"),
     '/ui/html': require("../ui/html/sidebar"),
     '/ui/css': require("../ui/css/sidebar"),
+    '/ui/echart': require("../ui/echart/sidebar"),
 }
