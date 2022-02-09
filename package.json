@@ -25,7 +25,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "gh": "bash deploy.sh"
+    "gh": "bash scripts/deploy.sh"
   },
   "keywords": [],
   "author": ""
