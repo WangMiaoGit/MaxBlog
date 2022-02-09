@@ -51,7 +51,7 @@ module.exports = {
         sidebarDepth: 2,
         lastUpdated: false,
         searchMaxSuggestoins: 10,
-        repo: 'xugaoyi/vuepress-theme-vdoing', // 导航栏右侧生成Github链接
+        repo: 'WangMiaoGit', // 导航栏右侧生成Github链接
         serviceWorker: {
             updatePopup: {
                 message: "有新的内容.",
@@ -104,7 +104,7 @@ module.exports = {
         // 文章默认的作者信息，(可在md文件中单独配置此信息) string | {name: string, link?: string}
         author: {
             name: 'MaxWang', // 必需
-            link: 'https://github.com/xugaoyi', // 可选的
+            link: 'https://github.com/WangMiaoGit', // 可选的
         },
 
         // 博主信息 (显示在首页侧边栏)
@@ -126,7 +126,7 @@ module.exports = {
                 {
                     iconClass: 'icon-github',
                     title: 'GitHub',
-                    link: 'https://github.com/xugaoyi',
+                    link: 'https://github.com/WangMiaoGit',
                 },
                 {
                     iconClass: 'icon-erji',
@@ -138,7 +138,7 @@ module.exports = {
 
         // 页脚信息
         footer: {
-            createYear: 2019, // 博客创建年份
+            createYear: 2022, // 博客创建年份
             copyrightInfo:
                 'Evan Xu | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签或换行标签</br>
         },
