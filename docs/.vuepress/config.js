@@ -2,7 +2,7 @@ module.exports = {
     title: 'Max Blog',// 设置网站标题
     description: 'MaxWang的博客',
     base: '/MaxBlog/',   // 设置站点根路径
-    // dest: './public',  // 设置输出目录 默认在.vuepress 目录下dist
+    dest: 'docs/.vuepress/dist',  // 设置输出目录 默认在.vuepress 目录下dist
     port: 8081,
     head: [['link', { rel: 'icon', href: '/umbrella.png' }]],
     plugins: [
