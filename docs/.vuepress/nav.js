@@ -38,6 +38,12 @@ module.exports = [{
                 },
             ],
         },
+        {
+            text: 'flutter',
+            items: [
+                { text: 'flutter', link: '/pages/a31231/' },
+            ],
+        },
     ],
 }, {
     text: '页面',
@@ -77,7 +83,8 @@ module.exports = [{
                 { text: '程序员导航', link: 'https://code.coolzhanweb.com/' },
                 { text: '常用导航', link: 'https://www.mgnav.com/' },
                 { text: 'CXY521', link: 'https://www.cxy521.com/' },
-                { text: '前端导航', link: 'https://www.kwgg2020.com/' }
+                { text: '前端导航', link: 'https://www.kwgg2020.com/' },
+                { text: '杂货铺', link: 'https://adzhp.cn/' }
             ]
         },
         {
